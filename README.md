@@ -1,2 +1,2 @@
-# Data-visualization-Projects-Soo-Hwan
-Data visualization and analytical projects using Python, including business and economic applications.
+# NUS-AI-Curriculum-Analysis
+Python data analysis examining AI disruption, skill demand, and salary trends to inform NUS BBA curriculum recommendations.
