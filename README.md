@@ -17,7 +17,8 @@ For the **REDESIGN** category in particular, the highest-priority specific chang
 - **Finance & Investment:** Add AI-driven modeling and algorithmic risk tools
 - **Digital Strategy:** Integrate AI-powered segmentation and content generation
 - **AI & Technology Literacy:** Expand coverage of ML, LLM applications, and prompt engineering for non-technical business contexts
-## Data Analysis & Visualizations
+
+## Data Analysis & Visualizations (Python - Jupyter Notebook)
 
 The analysis is organized into five areas, progressing from AI adoption and automation exposure to skill demand, wage outcomes, and curriculum recommendations.
 
