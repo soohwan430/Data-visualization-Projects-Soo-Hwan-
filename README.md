@@ -17,6 +17,50 @@ For the **REDESIGN** category in particular, the highest-priority specific chang
 - **Finance & Investment:** Add AI-driven modeling and algorithmic risk tools
 - **Digital Strategy:** Integrate AI-powered segmentation and content generation
 - **AI & Technology Literacy:** Expand coverage of ML, LLM applications, and prompt engineering for non-technical business contexts
+## Data Analysis & Visualizations
+
+The analysis is organized into five areas, progressing from AI adoption and automation exposure to skill demand, wage outcomes, and curriculum recommendations.
+
+### 1. AI Adoption & Automation Risk
+
+Examines how AI adoption varies across industries and identifies which job roles are most exposed to automation.
+
+- **AI Adoption by Industry** — Compares average AI adoption levels across industries.
+- **Automation Risk by Job Role** — Evaluates differences in automation exposure across occupations.
+- **AI Disruption Heatmap** — Maps disruption intensity across job roles and industries.
+- **AI Replacement Score Distribution** — Compares replacement scores across automation-risk categories.
+
+### 2. Skill Demand & Reskilling
+
+Evaluates how changing skill requirements interact with automation risk and identifies roles requiring greater workforce adaptation.
+
+- **Curriculum Action Quadrant** — Maps skill-demand growth against automation risk to classify roles into strategic action categories.
+- **Reskilling Urgency by Job Role** — Measures the relative urgency of workforce reskilling across occupations.
+- **Skill Demand Trends (2020–2026)** — Tracks changes in skill demand across job roles over time.
+
+### 3. Salary Impact & Wage Risk
+
+Investigates whether greater exposure to AI and automation is associated with changes in compensation and wage stability.
+
+- **Salary Before vs. After AI Adoption** — Compares salary trends before and after AI adoption.
+- **Salary Change by Job Role** — Identifies occupations experiencing the largest salary changes.
+- **Automation Risk vs. Salary Change** — Uses OLS regression to examine the relationship between automation risk and salary outcomes.
+- **Wage Volatility by Job Role** — Compares wage uncertainty across occupations.
+
+### 4. Statistical Validation
+
+Tests whether the relationships identified in the exploratory analysis are statistically meaningful.
+
+- **Correlation Matrix** — Examines relationships among automation risk, skill gaps, salaries, AI adoption, and other variables.
+- **ANOVA: Salary Change by Risk Category** — Tests whether salary changes differ significantly across automation-risk groups.
+
+### 5. Curriculum Recommendations
+
+Translates the analytical findings into actionable recommendations for the NUS BBA curriculum.
+
+- **Curriculum Heatmap** — Synthesizes AI disruption across roles and industries.
+- **Summary Framework** — Consolidates the analysis into curriculum priorities and recommendations.
+
 
 ## Conclusion
 
