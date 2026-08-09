@@ -4,10 +4,10 @@ Table 1 translates the quadrant analysis and salary findings into actionable cur
 
 | Action | Roles | Curriculum Action |
 |---|---|---|
-| **PRIORITIZE** | Data Analyst, Marketing Specialist, Software Engineer | Expand analytics, digital marketing, and AI literacy offerings |
-| **REDESIGN** | Financial Analyst, Graphic Designer | Restructure curriculum to focus on directing AI tools; add AI-augmented workflows |
-| **MAINTAIN** | HR Manager, Operations Manager | Retain current curriculum with incremental AI integration updates |
-| **DE-EMPHASIZE** | Customer Support, Accountant, Sales Representative | Shift from manual execution toward AI-supervised workflows; reduce standalone coverage |
+| **🟢 PRIORITIZE** | Data Analyst, Marketing Specialist, Software Engineer | Expand analytics, digital marketing, and AI literacy offerings |
+| **🟡 REDESIGN** | Financial Analyst, Graphic Designer | Restructure curriculum to focus on directing AI tools; add AI-augmented workflows |
+| **🔵 MAINTAIN** | HR Manager, Operations Manager | Retain current curriculum with incremental AI integration updates |
+| **🔴 DE-EMPHASIZE** | Customer Support, Accountant, Sales Representative | Shift from manual execution toward AI-supervised workflows; reduce standalone coverage |
 
 *Table 1: Curriculum action framework derived from quadrant analysis, reskilling urgency, and salary impact findings.*
 
