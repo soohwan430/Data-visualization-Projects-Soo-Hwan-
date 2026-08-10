@@ -73,6 +73,6 @@ Three converging lines of evidence support the recommendations:
 2. **Skill demand is being reshaped rather than uniformly increasing.** Technical and data-driven roles experience sustained growth while routine roles stagnate.
 3. **The economic consequences are material and compounding.** High-risk roles face both lower average salaries and greater wage volatility.
 
-The four-category framework — **PRIORITIZE, REDESIGN, MAINTAIN, and DE-EMPHASIZE** — provides a structured response to these pressures. NUS BBA should expand analytics and digital marketing offerings, update finance and design curricula around AI-augmented workflows, retain stable HR and operations tracks with incremental AI integration, and avoid expanding standalone coverage of roles facing both high automation risk and low skill-demand growth.
+The four-category framework of **Prioritize, Redesign, Maintain, and De-emphasize** provides a structured response to these pressures. NUS BBA should expand analytics and digital marketing offerings, update finance and design curricula around AI-augmented workflows, retain stable HR and operations tracks with incremental AI integration, and avoid expanding standalone coverage of roles facing both high automation risk and low skill-demand growth.
 
 Across all tracks, **AI literacy should be treated as a foundational competency rather than a specialization.**
